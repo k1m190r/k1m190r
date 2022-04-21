@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Igor.
 - 👀 I’m interested in Mathematics, Physics.
-- 🌱 I’m currently learning APL, Tensor Calculus and PDEs.
+- 🌱 Currently → APL, x86 ASM, Tensor Calculus, Geometric Algebra.
