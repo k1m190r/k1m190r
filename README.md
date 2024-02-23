@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Igor.
 - 👀 Mathematics, Physics.
-- 🌱 Currently → C++, APL, x86 ASM, Tensor Calculus, Geometric Algebra, Lattice Botzman Method
+- 🌱 Currently → C++, APL, x86 ASM, Tensor Calculus, Geometric Algebra, Lattice Botzman Method, Peridynamics
