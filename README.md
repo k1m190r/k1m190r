@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Igor.
-- 👀 Soul: Mathematics, Physics, Python
+- 👀 Soul: Mathematics, Physics, Python, a bit of Lean4
 - 🌱 Aspirations: Inverse Problems, Geometric Algebra, Lattice Botzman, Peridynamics
